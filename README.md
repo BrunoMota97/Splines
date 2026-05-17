@@ -13,3 +13,6 @@ Visão computacional;<br>
 Processamento de imagens e de sinais;<br>
 Aprendizagem máquina e otimização;<br>
 Computação gráfica;
+
+
+Neste trabalho, os gráficos de splines foram gerados com recurso à biblioteca Matplotlib do Python.
