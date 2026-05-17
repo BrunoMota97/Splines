@@ -9,7 +9,7 @@ Por exemplo, uma spline cúbica é uma spline que consiste em polinômios cúbic
 Referência: https://pt.linkedin.com/advice/0/how-do-you-use-splines-model-complex-nonlinear?lang=pt
 
 As aplicações consistem em:
-Visão computacional;
-Processamento de imagens e de sinais;
-Aprendizagem máquina e otimização;
+Visão computacional;<br>
+Processamento de imagens e de sinais;<br>
+Aprendizagem máquina e otimização;<br>
 Computação gráfica;
