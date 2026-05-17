@@ -1,6 +1,6 @@
-##Interpolação polinomial com Splines.
+Interpolação polinomial com Splines.
 
-##O que são splines?</br>
+O que são splines?</br>
 Splines são funções definidas por fórmulas diferentes em diferentes intervalos do domínio, como [a,b]. 
 Os intervalos são chamados de subdomínios, e os pontos onde os subdomínios se encontram são chamados de nós.
 O tipo mais comum de splines são splines polinomiais, que são compostas por funções polinomiais de um certo grau em cada subdomínio. 
